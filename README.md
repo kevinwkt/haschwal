@@ -17,5 +17,6 @@ Given that my team was competent enough we decided to take this journey in not o
 
 ## Tracker
 
-first_principles = 70
-learn_you_a_haskell = 9
+first_principles = 87
+
+learn_you_a_haskell = 23
